@@ -1,0 +1,11 @@
+# next.jsプロジェクト作成
+npx create-next-app@latest nextjs16-blog
+
+# gitがローカルにインストールされている事が前提
+git init
+
+git add .
+
+git commit -m "initial commit"
+
+
